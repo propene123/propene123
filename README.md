@@ -24,8 +24,10 @@ get in touch then please find my check out my LinkedIn profile below (just click
 # Technical Skills
 
 ### Advanced
+![C](https://img.icons8.com/ios/50/000000/c.png "C")
 
 ### Intermediate
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++")
 
 ### Basic
 
@@ -38,19 +40,8 @@ get in touch then please find my check out my LinkedIn profile below (just click
 # Previous Education
 
 # Licenses
+[Icons by Icons8](https://icons8.com)
 <a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
+<a href="https://icons8.com/icon/111021/c">C icon by Icons8</a>
+<a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a>
 
-<!--
-**propene123/propene123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
