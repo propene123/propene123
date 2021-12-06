@@ -19,17 +19,17 @@ Think of it as a more detailed LinkedIn profile.
 If you would rather read a more focused description of my technical skills and work experience, without the university projects. Or you just want to 
 get in touch then please find my check out my LinkedIn profile below (just click the icon).
 
-[![LinkedIn Profile](<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> "LinkedIn Profile")](https://www.linkedin.com/in/benjamin-russell-9451ba175/)
+[![LinkedIn Profile](https://img.icons8.com/color/48/000000/linkedin.png "LinkedIn Profile")](https://www.linkedin.com/in/benjamin-russell-9451ba175/)
 
 # Technical Skills
 
-## Advanced
+### Advanced
 
-## Intermediate
+### Intermediate
 
-## Basic
+### Basic
 
-## Other
+### Other
 
 # University Projects
 
