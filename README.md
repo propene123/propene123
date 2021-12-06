@@ -16,6 +16,10 @@ Think of it as a more detailed LinkedIn profile.
 3. [Career/Work Experience 🧑‍💼](#careerwork-experience)
 4. [Previous Education 🎒](#previous-education)
 
+If you would rather read a more focused description of my technical skills and work experience, without the university projects. Or you just want to 
+get in touch then please find my check out my LinkedIn profile below (just click the icon).
+
+[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://www.linkedin.com/in/benjamin-russell-9451ba175/)
 
 # Technical Skills
 
@@ -25,6 +29,8 @@ Think of it as a more detailed LinkedIn profile.
 
 # Previous Education
 
+# Licenses
+<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
 
 <!--
 **propene123/propene123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
