@@ -7,19 +7,19 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/30cd8e0/
-Advanced	README.md	/^## Advanced$/;"	s	chapter:Technical Skills
+Advanced	README.md	/^### Advanced$/;"	S	chapter:Technical Skills
 And I am currently studying an MEng in Computer Science at Durham University	README.md	/^### And I am currently studying an MEng in Computer Science at Durham University$/;"	S	chapter:Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃
 And I am currently studying an MEng in Computer Science at Durham University	readme.html	/^<h3 id="and-i-am-currently-studying-an-meng-in-computer-science-at-durham-university">And I am c/;"	j
-Basic	README.md	/^## Basic$/;"	s	chapter:Technical Skills
+Basic	README.md	/^### Basic$/;"	S	chapter:Technical Skills
 Career/Work Experience	README.md	/^# Career\/Work Experience$/;"	c
 Contents	README.md	/^# Contents$/;"	c
 Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃	README.md	/^# Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃$/;"	c
 Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃	readme.html	/^<h1 id="hi-there-welcome-to-my-github-profile-please-enjoy-your-stay">Hi there 👋Welcome to my/;"	h
-Intermediate	README.md	/^## Intermediate$/;"	s	chapter:Technical Skills
+Intermediate	README.md	/^### Intermediate$/;"	S	chapter:Technical Skills
 Licenses	README.md	/^# Licenses$/;"	c
 My name is Benjamin Russell	README.md	/^### My name is Benjamin Russell$/;"	S	chapter:Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃
 My name is Benjamin Russell	readme.html	/^<h3 id="my-name-is-benjamin-russell">My name is Benjamin Russell<\/h3>$/;"	j
-Other	README.md	/^## Other$/;"	s	chapter:Technical Skills
+Other	README.md	/^### Other$/;"	S	chapter:Technical Skills
 Previous Education	README.md	/^# Previous Education$/;"	c
 Technical Skills	README.md	/^# Technical Skills$/;"	c
 University Projects	README.md	/^# University Projects$/;"	c
