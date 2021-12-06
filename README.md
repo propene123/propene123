@@ -11,10 +11,10 @@ My current score for the first 3 years of my degree is 79/100
 This page serves as an easier to navigate portfolio of my technical skills, coding projects from university, and career porgression/work experience.
 Think of it as a more detailed LinkedIn profile.
 
-1. [Technical Skills](#technical-skills)
-2. [University Projects](#university-projects)
-3. [Career/Work Experience](#careerwork-experience)
-4. [Previous Education](#previous-education)
+1. [Technical Skills 🧑‍💻](#technical-skills)
+2. [University Projects 🧑‍🎓](#university-projects)
+3. [Career/Work Experience 🧑‍💼](#careerwork-experience)
+4. [Previous Education 🎒](#previous-education)
 
 
 # Technical Skills
