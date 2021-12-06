@@ -41,7 +41,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 
 # Licenses
 [Icons by Icons8](https://icons8.com)
-<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
-<a href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>
+<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>  
+<a href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a>  
 <a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a>
 
