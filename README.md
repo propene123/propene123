@@ -19,7 +19,7 @@ Think of it as a more detailed LinkedIn profile.
 If you would rather read a more focused description of my technical skills and work experience, without the university projects. Or you just want to 
 get in touch then please find my check out my LinkedIn profile below (just click the icon).
 
-[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://www.linkedin.com/in/benjamin-russell-9451ba175/)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 # Technical Skills
 
