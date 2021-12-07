@@ -41,7 +41,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="48" title="PyTorch">
 ![Latex](https://img.icons8.com/color/48/000000/latex.png "Latex")
 ![QT](https://img.icons8.com/ios-filled/50/000000/qt.png#gh-light-mode-only)
-![QT](https://img.icons8.com/ios/50/000000/qt.png#gh-dark-mode-only)
+<!--![QT](https://img.icons8.com/ios/50/000000/qt.png#gh-dark-mode-only)-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" height="48" title="OpenMP">
 
 
