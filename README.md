@@ -42,7 +42,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 ![Latex](https://img.icons8.com/color/48/000000/latex.png "Latex")
 ![QT](https://img.icons8.com/ios/50/000000/qt.png)
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" height="48" title="OpenMP">
-
+![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png "Java")
 
 ### Basic
 ![Azure DevOps](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png "Azure DevOps")
@@ -52,6 +52,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" alt="WebGL" height="48" title="WebGL">
 
 ### Other
+![Blender](https://img.icons8.com/color/48/000000/blender-3d.png "Blender")
 
 # University Projects
 
@@ -77,4 +78,6 @@ get in touch then please find my check out my LinkedIn profile below (just click
 <a href="https://icons8.com/icon/WBooq2dInw0x/latex">LaTeX icon by Icons8</a>  
 <a href="https://icons8.com/icon/Lvn3jvfnl1XF/haskell">Haskell icon by Icons8</a>  
 <a href="https://icons8.com/icon/25647/qt">Qt icon by Icons8</a>  
+<a href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>  
+<a href="https://icons8.com/icon/65231/blender-3d">Blender 3D icon by Icons8</a>  
 
