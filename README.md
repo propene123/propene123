@@ -43,7 +43,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 
 
 ### Basic
-![Azure DevOps](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png "Azure DevOps")
+![Azure DevOps](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png "Azure DevOps")
 
 ### Other
 
