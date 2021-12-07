@@ -30,7 +30,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 ![HTML](https://img.icons8.com/color/24/000000/html-5.png "HTML")
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png "React.js")
 ![Python](https://img.icons8.com/color/48/000000/python.png "Python")
-![Pandas](https://pandas.pydata.org/static/img/pandas_secondary.svg "Pandas")
+![Pandas](https://pandas.pydata.org/static/img/pandas_secondary.svg "Pandas" =48x)
 ![Linux](https://img.icons8.com/color/48/000000/linux.png "Linux")
 
 ### Intermediate
@@ -38,7 +38,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png "TypeScript")
 ![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS")
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png "Node.js")
-![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png "PyTorch")
+![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png "PyTorch" =48x)
 ![Latex](https://img.icons8.com/color/48/000000/latex.png "Latex")
 
 
