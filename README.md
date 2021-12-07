@@ -27,7 +27,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 ![C](https://img.icons8.com/color/48/000000/c-programming.png "C")
 ![Git](https://img.icons8.com/color/48/000000/git.png "Git")
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png "JavaScript")
-![HTML](https://img.icons8.com/color/24/000000/html-5.png "HTML")
+![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML")
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png "React.js")
 ![Python](https://img.icons8.com/color/48/000000/python.png "Python")
 <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas" width="48" title="Pandas">
@@ -38,7 +38,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png "TypeScript")
 ![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS")
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png "Node.js")
-<img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="PyTorch" width="48" title="PyTorch">
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="48" title="PyTorch">
 ![Latex](https://img.icons8.com/color/48/000000/latex.png "Latex")
 
 
