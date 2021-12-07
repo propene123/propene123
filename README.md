@@ -40,8 +40,7 @@ get in touch then please find my check out my LinkedIn profile below (just click
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png "Node.js")
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="48" title="PyTorch">
 ![Latex](https://img.icons8.com/color/48/000000/latex.png "Latex")
-![QT](https://img.icons8.com/ios/50/000000/qt.png#gh-dark-mode-only)
-![QT](https://img.icons8.com/ios-filled/50/000000/qt.png#gh-light-mode-only)
+![QT](https://img.icons8.com/ios/50/000000/qt.png)
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="OpenMP" height="48" title="OpenMP">
 
 
@@ -77,5 +76,5 @@ get in touch then please find my check out my LinkedIn profile below (just click
 <a href="https://icons8.com/icon/17842/linux">Linux icon by Icons8</a>  
 <a href="https://icons8.com/icon/WBooq2dInw0x/latex">LaTeX icon by Icons8</a>  
 <a href="https://icons8.com/icon/Lvn3jvfnl1XF/haskell">Haskell icon by Icons8</a>  
-<a href="https://icons8.com/icon/47039/qt">Qt icon by Icons8</a>  
+<a href="https://icons8.com/icon/25647/qt">Qt icon by Icons8</a>  
 
