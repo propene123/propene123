@@ -23,6 +23,9 @@ Other	README.md	/^### Other$/;"	S	chapter:Technical Skills
 Previous Education	README.md	/^# Previous Education$/;"	c
 Technical Skills	README.md	/^# Technical Skills$/;"	c
 University Projects	README.md	/^# University Projects$/;"	c
+Year 1	README.md	/^## Year 1$/;"	s	chapter:University Projects
+Year 2	README.md	/^## Year 2$/;"	s	chapter:University Projects
+Year 3	README.md	/^## Year 3$/;"	s	chapter:University Projects
 and-i-am-currently-studying-an-meng-in-computer-science-at-durham-university	readme.html	/^<h3 id="and-i-am-currently-studying-an-meng-in-computer-science-at-durham-university">And I am c/;"	I
 hi-there-welcome-to-my-github-profile-please-enjoy-your-stay	readme.html	/^<h1 id="hi-there-welcome-to-my-github-profile-please-enjoy-your-stay">Hi there 👋Welcome to my/;"	I
 my-name-is-benjamin-russell	readme.html	/^<h3 id="my-name-is-benjamin-russell">My name is Benjamin Russell<\/h3>$/;"	I
