@@ -7,25 +7,67 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/30cd8e0/
+AI-Search	README.md	/^### AI-Search$/;"	S	section:University Projects""Year 2
 Advanced	README.md	/^### Advanced$/;"	S	chapter:Technical Skills
+Advanced	readme.html	/^<h3 id="advanced">Advanced<\/h3>$/;"	j
+Algebraic Game Theory	README.md	/^### Algebraic Game Theory$/;"	S	section:University Projects""Year 3
 And I am currently studying an MEng in Computer Science at Durham University	README.md	/^### And I am currently studying an MEng in Computer Science at Durham University$/;"	S	chapter:Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃
 And I am currently studying an MEng in Computer Science at Durham University	readme.html	/^<h3 id="and-i-am-currently-studying-an-meng-in-computer-science-at-durham-university">And I am c/;"	j
 Basic	README.md	/^### Basic$/;"	S	chapter:Technical Skills
+Basic	readme.html	/^<h3 id="basic">Basic<\/h3>$/;"	j
 Career/Work Experience	README.md	/^# Career\/Work Experience$/;"	c
+Career/Work Experience	readme.html	/^<h1 id="careerwork-experience">Career\/Work Experience<\/h1>$/;"	h
+Codes & Cryptography	README.md	/^### Codes & Cryptography$/;"	S	section:University Projects""Year 3
+Compiler Design	README.md	/^### Compiler Design$/;"	S	section:University Projects""Year 2
+Computer Graphics	README.md	/^### Computer Graphics$/;"	S	section:University Projects""Year 2
 Contents	README.md	/^# Contents$/;"	c
+Contents	readme.html	/^<h1 id="contents">Contents<\/h1>$/;"	h
+Cyber-Security	README.md	/^### Cyber-Security$/;"	S	section:University Projects""Year 2
+Deep Learning & Reinforcement Learning	README.md	/^### Deep Learning & Reinforcement Learning$/;"	S	section:University Projects""Year 3
+Distributed Systems	README.md	/^### Distributed Systems$/;"	S	section:University Projects""Year 2
 Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃	README.md	/^# Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃$/;"	c
 Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃	readme.html	/^<h1 id="hi-there-welcome-to-my-github-profile-please-enjoy-your-stay">Hi there 👋Welcome to my/;"	h
+Image Processing	README.md	/^### Image Processing$/;"	S	section:University Projects""Year 2
 Intermediate	README.md	/^### Intermediate$/;"	S	chapter:Technical Skills
+Intermediate	readme.html	/^<h3 id="intermediate">Intermediate<\/h3>$/;"	j
 Licenses	README.md	/^# Licenses$/;"	c
+Licenses	readme.html	/^<h1 id="licenses">Licenses<\/h1>$/;"	h
+Machine Learning	README.md	/^### Machine Learning$/;"	S	section:University Projects""Year 2
 My name is Benjamin Russell	README.md	/^### My name is Benjamin Russell$/;"	S	chapter:Hi there 👋Welcome to my GitHub profile, please enjoy your stay 😃
 My name is Benjamin Russell	readme.html	/^<h3 id="my-name-is-benjamin-russell">My name is Benjamin Russell<\/h3>$/;"	j
-Other	README.md	/^### Other$/;"	S	chapter:Technical Skills
+Networks	README.md	/^### Networks$/;"	S	section:University Projects""Year 2
+Other Skills	README.md	/^### Other Skills$/;"	S	chapter:Technical Skills
+Other Skills	readme.html	/^<h3 id="other-skills">Other Skills<\/h3>$/;"	j
+Parallel Scientific Computing	README.md	/^### Parallel Scientific Computing$/;"	S	section:University Projects""Year 3
 Previous Education	README.md	/^# Previous Education$/;"	c
+Previous Education	readme.html	/^<h1 id="previous-education">Previous Education<\/h1>$/;"	h
+Recommender Systems	README.md	/^### Recommender Systems$/;"	S	section:University Projects""Year 3
+Software-Engineering	README.md	/^### Software-Engineering$/;"	S	section:University Projects""Year 2
+Systems Programming	README.md	/^### Systems Programming$/;"	S	section:University Projects""Year 2
 Technical Skills	README.md	/^# Technical Skills$/;"	c
+Technical Skills	readme.html	/^<h1 id="technical-skills">Technical Skills<\/h1>$/;"	h
 University Projects	README.md	/^# University Projects$/;"	c
+University Projects	readme.html	/^<h1 id="university-projects">University Projects<\/h1>$/;"	h
+Virtual Reality	README.md	/^### Virtual Reality$/;"	S	section:University Projects""Year 3
 Year 1	README.md	/^## Year 1$/;"	s	chapter:University Projects
+Year 1	readme.html	/^<h2 id="year-1">Year 1<\/h2>$/;"	i
 Year 2	README.md	/^## Year 2$/;"	s	chapter:University Projects
+Year 2	readme.html	/^<h2 id="year-2">Year 2<\/h2>$/;"	i
 Year 3	README.md	/^## Year 3$/;"	s	chapter:University Projects
+Year 3	readme.html	/^<h2 id="year-3">Year 3<\/h2>$/;"	i
+advanced	readme.html	/^<h3 id="advanced">Advanced<\/h3>$/;"	I
 and-i-am-currently-studying-an-meng-in-computer-science-at-durham-university	readme.html	/^<h3 id="and-i-am-currently-studying-an-meng-in-computer-science-at-durham-university">And I am c/;"	I
+basic	readme.html	/^<h3 id="basic">Basic<\/h3>$/;"	I
+careerwork-experience	readme.html	/^<h1 id="careerwork-experience">Career\/Work Experience<\/h1>$/;"	I
+contents	readme.html	/^<h1 id="contents">Contents<\/h1>$/;"	I
 hi-there-welcome-to-my-github-profile-please-enjoy-your-stay	readme.html	/^<h1 id="hi-there-welcome-to-my-github-profile-please-enjoy-your-stay">Hi there 👋Welcome to my/;"	I
+intermediate	readme.html	/^<h3 id="intermediate">Intermediate<\/h3>$/;"	I
+licenses	readme.html	/^<h1 id="licenses">Licenses<\/h1>$/;"	I
 my-name-is-benjamin-russell	readme.html	/^<h3 id="my-name-is-benjamin-russell">My name is Benjamin Russell<\/h3>$/;"	I
+other-skills	readme.html	/^<h3 id="other-skills">Other Skills<\/h3>$/;"	I
+previous-education	readme.html	/^<h1 id="previous-education">Previous Education<\/h1>$/;"	I
+technical-skills	readme.html	/^<h1 id="technical-skills">Technical Skills<\/h1>$/;"	I
+university-projects	readme.html	/^<h1 id="university-projects">University Projects<\/h1>$/;"	I
+year-1	readme.html	/^<h2 id="year-1">Year 1<\/h2>$/;"	I
+year-2	readme.html	/^<h2 id="year-2">Year 2<\/h2>$/;"	I
+year-3	readme.html	/^<h2 id="year-3">Year 3<\/h2>$/;"	I

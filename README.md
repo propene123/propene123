@@ -51,14 +51,46 @@ get in touch then please find my check out my LinkedIn profile below (just click
 <img src="https://avatars.githubusercontent.com/u/2165682?s=280&v=4" alt="OpenMPI" width="48" title="OpenMPI">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" alt="WebGL" height="48" title="WebGL">
 
-### Other
+### Other Skills
 ![Blender](https://img.icons8.com/color/48/000000/blender-3d.png "Blender")
 
 # University Projects
 
 ## Year 3
 
+### Codes & Cryptography
+
+### Parallel Scientific Computing
+
+### Recommender Systems
+
+### Deep Learning & Reinforcement Learning
+
+### Algebraic Game Theory
+
+### Virtual Reality
+
 ## Year 2
+
+### Cyber-Security
+
+### Networks
+
+### Image Processing
+
+### AI-Search
+
+### Systems Programming
+
+### Compiler Design
+
+### Distributed Systems
+
+### Software-Engineering
+
+### Computer Graphics
+
+### Machine Learning
 
 ## Year 1
 
